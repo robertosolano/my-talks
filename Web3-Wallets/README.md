@@ -4,14 +4,12 @@
 
 ## Summary
 
-Welcome to my talk on Web3 Wallets, titled **"Beyond Basics: Demystifying Web3 Wallets for Web2 Users"**. This session covers the essentials of Web3 wallets, their functionalities, and best practices for using them securely. Join us in exploring the future of digital finance!
+Welcome to my talk on Web3 Wallets, titled **"Beyond Basics: Demystifying Web3 Wallets for Web2 Users"**. This session covers the essentials of Web3 wallets, their functionalities, and best practices for using them securely. Join us in exploring the future of decentralized finance (DeFi)!
 
 ## YouTube Playlist on Wallet Resources
 
 Here is a curated playlist of YouTube videos to help you understand Web3 wallets in depth:
-- [Introduction to Web3 Wallets](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
-- [Setting Up Your First Wallet](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
-- [Advanced Wallet Security](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+- [Blockchain Wallets](https://youtube.com/playlist?list=PLfqBbgB8zsBGJOSEolVSXh2ZcFEqHRt26&si=GWosfACx-YviDx3d)
 
 ## Additional Resources
 
