@@ -33,5 +33,5 @@ For any questions or further discussion, feel free to reach out at [robertosolan
 
 ---
 
-Remember to update the `path/to/event-logo.png` and the example URLs with actual paths and links relevant to your content. This should make for a comprehensive and engaging documentation of your Web3 Wallets talk! 🚀
+Remember to update the example URLs with actual paths and links relevant to your content. This should make for a comprehensive and engaging documentation of your Web3 Wallets talk! 🚀
 
