@@ -15,8 +15,6 @@ Here is a curated playlist of YouTube videos to help you understand Web3 wallets
 
 Explore these links to dive deeper into the world of Web3 wallets and blockchain technology:
 - [Great twitter thread on Wallets by nichanank](https://x.com/nichanank/status/1734569569568927806)
-- [Decentralized Exchanges (DEX)](https://example.com/what-is-dex)
-- [Using Wallets in Real Life](https://example.com/wallet-use-cases)
 - [Wallet Best Practices](https://example.com/wallet-best-practices)
 
 ## Deeper Study
