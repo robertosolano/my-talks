@@ -1,4 +1,4 @@
-# Web3 Wallets: Beyond Basics
+# Beyond Basics: Demystifying Web3 Wallets for Web2 Users
 
 ![Event Logo](./Logos/event-logo.png)
 
