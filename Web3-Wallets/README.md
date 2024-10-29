@@ -15,7 +15,8 @@ Here is a curated playlist of YouTube videos to help you understand Web3 wallets
 
 Explore these links to dive deeper into the world of Web3 wallets and blockchain technology:
 - [Great twitter thread on Wallets by nichanank](https://x.com/nichanank/status/1734569569568927806)
-- [Wallet Best Practices](https://example.com/wallet-best-practices)
+- [History of Money: From Fiat to Crypto, Explained 🚀🔍](https://www.linkedin.com/pulse/history-money-from-fiat-crypto-explained-vlad-nazar/)
+- [The 7 Types of Cryptocurrencies You Must Know](https://martin-thoma.com/cryptocurrency-types/)
 
 ## Deeper Study
 
